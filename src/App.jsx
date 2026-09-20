@@ -1,3 +1,4 @@
+import Footer from "./components/footer";
 import Header from "./components/header";
 import About from "./components/about";
 import Education from "./components/education";
