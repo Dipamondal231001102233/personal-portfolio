@@ -1,9 +1,8 @@
-import Header from "./components/Header";
-import About from "./components/About";
-import Education from "./components/Education";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Header from "./components/header";
+import About from "./components/about";
+import Education from "./components/education";
+import Skills from "./components/skills";
+import Contact from "./components/contact";
 
 function App() {
   return (
